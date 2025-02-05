@@ -26,3 +26,5 @@ dotproduct1=a.dot(b)
 an=np.arange(10).reshape(2,5) 
 print(an.sum(axis=1))  # [10 35]
 print(an.sum(axis=0))  # [5 7 9 11 13]
+
+
